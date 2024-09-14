@@ -50,7 +50,7 @@ RegisterNumber: 212222220028
 ```
 
 ## MainActivity.java:
-
+```
 
 package com.firstapp.fontsize;
 
@@ -90,7 +90,7 @@ public class MainActivity extends AppCompatActivity {
 }
 
 
-
+```
 
 
 ## activity_main.xml:
